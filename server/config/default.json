@@ -1,3 +1,5 @@
 {
-    "PORT": 8080
+    "PORT": 8080,
+    "MONGODB": "mongodb+srv://Rud:margaryanoo1@cluster0.s4hai6x.mongodb.net/?retryWrites=true&w=majority",
+    "JWT_TOKEN": "$2a$12$ezgcIdX6lutlkDtVW/Yy4.ze1deoB2wkrGZa6q/o0PKjxcM1w25U."
 }
